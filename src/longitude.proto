@@ -4,13 +4,7 @@ syntax = "proto3";
 
 package Dogma;
 
-message Angle {
-  double radians = 1;
-}
-
-message Latitude {
-  Angle angle = 1;
-}
+import "angle.proto";
 
 message Longitude {
   Angle angle = 1;

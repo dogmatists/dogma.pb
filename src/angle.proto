@@ -7,11 +7,3 @@ package Dogma;
 message Angle {
   double radians = 1;
 }
-
-message Latitude {
-  Angle angle = 1;
-}
-
-message Longitude {
-  Angle angle = 1;
-}
