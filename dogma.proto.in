@@ -2,7 +2,7 @@
 
 syntax = "proto3";
 
-package Dogma;
+package dogma;
 
 import "src/angle.proto";
 import "src/latitude.proto";

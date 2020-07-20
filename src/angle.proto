@@ -2,7 +2,7 @@
 
 syntax = "proto3";
 
-package Dogma;
+package dogma;
 
 message Angle {
   double radians = 1;
