@@ -1,7 +1,7 @@
 # Dogma for Protocol Buffers
 
 [![Project license](https://img.shields.io/badge/license-Public%20Domain-blue.svg)](https://unlicense.org)
-[![Protobuf compatibility](https://img.shields.io/badge/protobuf-3-blue)](#)
+![Protobuf compatibility](https://img.shields.io/badge/protobuf-3-blue)
 [![Linter](https://github.com/dogmatists/dogma.pb/workflows/Linter/badge.svg)](https://github.com/dogmatists/dogma.pb/actions?query=workflow%3ALinter)
 
 <https://dogma.dev>
