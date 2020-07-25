@@ -6,6 +6,11 @@ package dogma;
 
 import "angle.proto";
 
+/**
+ * A latitude.
+ *
+ * See: https://dogma.dev/Latitude
+ */
 message Latitude {
   Angle angle = 1;
 }
